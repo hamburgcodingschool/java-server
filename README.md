@@ -1,9 +1,9 @@
 # java-server
 
-This is the repository for the Spring Services of the course Java Programming.
+This is the repository for the Spring Boot services of the course Java Programming.
 For more information and registration visit the website: https://hamburgcodingschool.com/en/courses/java/
 
-##Spring tutorials
+## Spring Boot Tutorials
 
 **REST Service**:  
 https://spring.io/guides/gs/rest-service/
